@@ -10,10 +10,10 @@ const bebas_neue = Bebas_Neue({
   variable: "--font-bebas-neue",
 });
 
-export const metadata: Metadata = {
-  title: "Freed",
-  description: "Frelanc",
-};
+// export const metadata: Metadata = {
+//   title: "Freed",
+//   description: "Frelanc",
+// };
 
 export default function RootLayout({
   children,
